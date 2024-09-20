@@ -1,0 +1,572 @@
+Generated client 1 with arrival time 3 and service time 6
+Generated client 2 with arrival time 26 and service time 2
+Generated client 3 with arrival time 17 and service time 2
+Generated client 4 with arrival time 34 and service time 6
+Generated client 5 with arrival time 27 and service time 3
+Generated client 6 with arrival time 2 and service time 3
+Generated client 7 with arrival time 16 and service time 5
+Generated client 8 with arrival time 7 and service time 5
+Generated client 9 with arrival time 8 and service time 1
+Generated client 10 with arrival time 37 and service time 4
+Generated client 11 with arrival time 22 and service time 7
+Generated client 12 with arrival time 23 and service time 5
+Generated client 13 with arrival time 16 and service time 3
+Generated client 14 with arrival time 33 and service time 4
+Generated client 15 with arrival time 27 and service time 6
+Generated client 16 with arrival time 30 and service time 3
+Generated client 17 with arrival time 11 and service time 7
+Generated client 18 with arrival time 2 and service time 7
+Generated client 19 with arrival time 40 and service time 6
+Generated client 20 with arrival time 5 and service time 1
+Generated client 21 with arrival time 38 and service time 1
+Generated client 22 with arrival time 9 and service time 7
+Generated client 23 with arrival time 13 and service time 2
+Generated client 24 with arrival time 8 and service time 5
+Generated client 25 with arrival time 26 and service time 3
+Generated client 26 with arrival time 6 and service time 5
+Generated client 27 with arrival time 39 and service time 5
+Generated client 28 with arrival time 22 and service time 2
+Generated client 29 with arrival time 35 and service time 3
+Generated client 30 with arrival time 13 and service time 7
+Generated client 31 with arrival time 6 and service time 6
+Generated client 32 with arrival time 3 and service time 4
+Generated client 33 with arrival time 16 and service time 3
+Generated client 34 with arrival time 35 and service time 2
+Generated client 35 with arrival time 13 and service time 7
+Generated client 36 with arrival time 35 and service time 7
+Generated client 37 with arrival time 11 and service time 7
+Generated client 38 with arrival time 26 and service time 6
+Generated client 39 with arrival time 29 and service time 4
+Generated client 40 with arrival time 24 and service time 6
+Generated client 41 with arrival time 21 and service time 5
+Generated client 42 with arrival time 37 and service time 2
+Generated client 43 with arrival time 12 and service time 2
+Generated client 44 with arrival time 22 and service time 1
+Generated client 45 with arrival time 31 and service time 2
+Generated client 46 with arrival time 32 and service time 1
+Generated client 47 with arrival time 5 and service time 3
+Generated client 48 with arrival time 23 and service time 3
+Generated client 49 with arrival time 19 and service time 6
+Generated client 50 with arrival time 37 and service time 2
+0
+[]
+[]
+[]
+[]
+[]
+1
+[]
+[]
+[]
+[]
+[]
+Client 6 2 3 assigned to queue 0
+Starting service for task 6 in queue 0
+Starting service for task 18 in queue 1
+Client 18 2 7 assigned to queue 1
+2
+[Task{id=6, arrivalTime=2, serviceTime=2}]
+[Task{id=18, arrivalTime=2, serviceTime=6}]
+[]
+[]
+[]
+Client 32 3 4 assigned to queue 2
+Starting service for task 32 in queue 2
+Client 1 3 6 assigned to queue 3
+Starting service for task 1 in queue 3
+3
+[Task{id=6, arrivalTime=2, serviceTime=1}]
+[Task{id=18, arrivalTime=2, serviceTime=5}]
+[Task{id=32, arrivalTime=3, serviceTime=3}]
+[Task{id=1, arrivalTime=3, serviceTime=6}]
+[]
+Client 6 has been served in queue 0
+4
+[]
+[Task{id=18, arrivalTime=2, serviceTime=4}]
+[Task{id=32, arrivalTime=3, serviceTime=2}]
+[Task{id=1, arrivalTime=3, serviceTime=5}]
+[]
+Client 20 5 1 assigned to queue 0
+Starting service for task 20 in queue 0
+Client 47 5 3 assigned to queue 4
+Starting service for task 47 in queue 4
+Client 20 has been served in queue 0
+5
+[]
+[Task{id=18, arrivalTime=2, serviceTime=3}]
+[Task{id=32, arrivalTime=3, serviceTime=1}]
+[Task{id=1, arrivalTime=3, serviceTime=4}]
+[Task{id=47, arrivalTime=5, serviceTime=2}]
+Client 26 6 5 assigned to queue 0
+Starting service for task 26 in queue 0
+Client 31 6 6 assigned to queue 0
+Client 32 has been served in queue 2
+6
+[Task{id=26, arrivalTime=6, serviceTime=4}, Task{id=31, arrivalTime=6, serviceTime=6}]
+[Task{id=18, arrivalTime=2, serviceTime=2}]
+[]
+[Task{id=1, arrivalTime=3, serviceTime=3}]
+[Task{id=47, arrivalTime=5, serviceTime=1}]
+Client 8 7 5 assigned to queue 2
+Starting service for task 8 in queue 2
+Client 47 has been served in queue 4
+7
+[Task{id=26, arrivalTime=6, serviceTime=3}, Task{id=31, arrivalTime=6, serviceTime=6}]
+[Task{id=18, arrivalTime=2, serviceTime=1}]
+[Task{id=8, arrivalTime=7, serviceTime=4}]
+[Task{id=1, arrivalTime=3, serviceTime=2}]
+[]
+Client 9 8 1 assigned to queue 4
+Starting service for task 9 in queue 4
+Client 24 8 5 assigned to queue 1
+Client 18 has been served in queue 1
+Starting service for task 24 in queue 1
+Client 1 has been served in queue 3
+8
+Client 9 has been served in queue 4
+[Task{id=26, arrivalTime=6, serviceTime=2}, Task{id=31, arrivalTime=6, serviceTime=6}]
+[Task{id=24, arrivalTime=8, serviceTime=5}]
+[Task{id=8, arrivalTime=7, serviceTime=3}]
+[]
+[]
+Client 22 9 7 assigned to queue 3
+Starting service for task 22 in queue 3
+9
+[Task{id=26, arrivalTime=6, serviceTime=1}, Task{id=31, arrivalTime=6, serviceTime=6}]
+[Task{id=24, arrivalTime=8, serviceTime=4}]
+[Task{id=8, arrivalTime=7, serviceTime=2}]
+[Task{id=22, arrivalTime=9, serviceTime=6}]
+[]
+Client 26 has been served in queue 0
+Starting service for task 31 in queue 0
+10
+[Task{id=31, arrivalTime=6, serviceTime=6}]
+[Task{id=24, arrivalTime=8, serviceTime=3}]
+[Task{id=8, arrivalTime=7, serviceTime=1}]
+[Task{id=22, arrivalTime=9, serviceTime=5}]
+[]
+Client 17 11 7 assigned to queue 4
+Starting service for task 17 in queue 4
+Client 37 11 7 assigned to queue 0
+Client 8 has been served in queue 2
+11
+[Task{id=31, arrivalTime=6, serviceTime=5}, Task{id=37, arrivalTime=11, serviceTime=7}]
+[Task{id=24, arrivalTime=8, serviceTime=2}]
+[]
+[Task{id=22, arrivalTime=9, serviceTime=4}]
+[Task{id=17, arrivalTime=11, serviceTime=6}]
+Client 43 12 2 assigned to queue 2
+Starting service for task 43 in queue 2
+12
+[Task{id=31, arrivalTime=6, serviceTime=4}, Task{id=37, arrivalTime=11, serviceTime=7}]
+[Task{id=24, arrivalTime=8, serviceTime=1}]
+[Task{id=43, arrivalTime=12, serviceTime=1}]
+[Task{id=22, arrivalTime=9, serviceTime=3}]
+[Task{id=17, arrivalTime=11, serviceTime=5}]
+Client 35 13 7 assigned to queue 1
+Client 23 13 2 assigned to queue 2
+Client 30 13 7 assigned to queue 3
+Client 24 has been served in queue 1
+Starting service for task 35 in queue 1
+Client 43 has been served in queue 2
+13
+Starting service for task 23 in queue 2
+[Task{id=31, arrivalTime=6, serviceTime=3}, Task{id=37, arrivalTime=11, serviceTime=7}]
+[Task{id=35, arrivalTime=13, serviceTime=7}]
+[Task{id=23, arrivalTime=13, serviceTime=2}]
+[Task{id=22, arrivalTime=9, serviceTime=2}, Task{id=30, arrivalTime=13, serviceTime=7}]
+[Task{id=17, arrivalTime=11, serviceTime=4}]
+14
+[Task{id=31, arrivalTime=6, serviceTime=2}, Task{id=37, arrivalTime=11, serviceTime=7}]
+[Task{id=35, arrivalTime=13, serviceTime=6}]
+[Task{id=23, arrivalTime=13, serviceTime=1}]
+[Task{id=22, arrivalTime=9, serviceTime=1}, Task{id=30, arrivalTime=13, serviceTime=7}]
+[Task{id=17, arrivalTime=11, serviceTime=3}]
+Client 23 has been served in queue 2
+Client 22 has been served in queue 3
+Starting service for task 30 in queue 3
+15
+[Task{id=31, arrivalTime=6, serviceTime=1}, Task{id=37, arrivalTime=11, serviceTime=7}]
+[Task{id=35, arrivalTime=13, serviceTime=5}]
+[]
+[Task{id=30, arrivalTime=13, serviceTime=7}]
+[Task{id=17, arrivalTime=11, serviceTime=2}]
+Client 33 16 3 assigned to queue 2
+Starting service for task 33 in queue 2
+Client 13 16 3 assigned to queue 1
+Client 7 16 5 assigned to queue 2
+Client 31 has been served in queue 0
+Starting service for task 37 in queue 0
+16
+[Task{id=37, arrivalTime=11, serviceTime=7}]
+[Task{id=35, arrivalTime=13, serviceTime=4}, Task{id=13, arrivalTime=16, serviceTime=3}]
+[Task{id=33, arrivalTime=16, serviceTime=2}, Task{id=7, arrivalTime=16, serviceTime=5}]
+[Task{id=30, arrivalTime=13, serviceTime=6}]
+[Task{id=17, arrivalTime=11, serviceTime=1}]
+Client 3 17 2 assigned to queue 0
+Client 17 has been served in queue 4
+17
+[Task{id=37, arrivalTime=11, serviceTime=6}, Task{id=3, arrivalTime=17, serviceTime=2}]
+[Task{id=35, arrivalTime=13, serviceTime=3}, Task{id=13, arrivalTime=16, serviceTime=3}]
+[Task{id=33, arrivalTime=16, serviceTime=1}, Task{id=7, arrivalTime=16, serviceTime=5}]
+[Task{id=30, arrivalTime=13, serviceTime=5}]
+[]
+Client 33 has been served in queue 2
+Starting service for task 7 in queue 2
+18
+[Task{id=37, arrivalTime=11, serviceTime=5}, Task{id=3, arrivalTime=17, serviceTime=2}]
+[Task{id=35, arrivalTime=13, serviceTime=2}, Task{id=13, arrivalTime=16, serviceTime=3}]
+[Task{id=7, arrivalTime=16, serviceTime=5}]
+[Task{id=30, arrivalTime=13, serviceTime=4}]
+[]
+Client 49 19 6 assigned to queue 4
+Starting service for task 49 in queue 4
+19
+[Task{id=37, arrivalTime=11, serviceTime=4}, Task{id=3, arrivalTime=17, serviceTime=2}]
+[Task{id=35, arrivalTime=13, serviceTime=1}, Task{id=13, arrivalTime=16, serviceTime=3}]
+[Task{id=7, arrivalTime=16, serviceTime=4}]
+[Task{id=30, arrivalTime=13, serviceTime=3}]
+[Task{id=49, arrivalTime=19, serviceTime=5}]
+Client 35 has been served in queue 1
+Starting service for task 13 in queue 1
+20
+[Task{id=37, arrivalTime=11, serviceTime=3}, Task{id=3, arrivalTime=17, serviceTime=2}]
+[Task{id=13, arrivalTime=16, serviceTime=3}]
+[Task{id=7, arrivalTime=16, serviceTime=3}]
+[Task{id=30, arrivalTime=13, serviceTime=2}]
+[Task{id=49, arrivalTime=19, serviceTime=4}]
+Client 41 21 5 assigned to queue 1
+21
+[Task{id=37, arrivalTime=11, serviceTime=2}, Task{id=3, arrivalTime=17, serviceTime=2}]
+[Task{id=13, arrivalTime=16, serviceTime=2}, Task{id=41, arrivalTime=21, serviceTime=5}]
+[Task{id=7, arrivalTime=16, serviceTime=2}]
+[Task{id=30, arrivalTime=13, serviceTime=1}]
+[Task{id=49, arrivalTime=19, serviceTime=3}]
+Client 11 22 7 assigned to queue 2
+Client 44 22 1 assigned to queue 3
+Client 28 22 2 assigned to queue 4
+Client 30 has been served in queue 3
+Starting service for task 44 in queue 3
+22
+[Task{id=37, arrivalTime=11, serviceTime=1}, Task{id=3, arrivalTime=17, serviceTime=2}]
+[Task{id=13, arrivalTime=16, serviceTime=1}, Task{id=41, arrivalTime=21, serviceTime=5}]
+[Task{id=7, arrivalTime=16, serviceTime=1}, Task{id=11, arrivalTime=22, serviceTime=7}]
+[Task{id=44, arrivalTime=22, serviceTime=1}]
+[Task{id=49, arrivalTime=19, serviceTime=2}, Task{id=28, arrivalTime=22, serviceTime=2}]
+Client 12 23 5 assigned to queue 3
+Client 48 23 3 assigned to queue 0
+Client 44 has been served in queue 3
+Starting service for task 12 in queue 3
+Client 13 has been served in queue 1
+Starting service for task 41 in queue 1
+Client 37 has been served in queue 0
+Starting service for task 3 in queue 0
+Client 7 has been served in queue 2
+Starting service for task 11 in queue 2
+23
+[Task{id=3, arrivalTime=17, serviceTime=2}, Task{id=48, arrivalTime=23, serviceTime=3}]
+[Task{id=41, arrivalTime=21, serviceTime=5}]
+[Task{id=11, arrivalTime=22, serviceTime=7}]
+[Task{id=12, arrivalTime=23, serviceTime=5}]
+[Task{id=49, arrivalTime=19, serviceTime=1}, Task{id=28, arrivalTime=22, serviceTime=2}]
+Client 40 24 6 assigned to queue 1
+Client 49 has been served in queue 4
+24
+Starting service for task 28 in queue 4
+[Task{id=3, arrivalTime=17, serviceTime=1}, Task{id=48, arrivalTime=23, serviceTime=3}]
+[Task{id=41, arrivalTime=21, serviceTime=4}, Task{id=40, arrivalTime=24, serviceTime=6}]
+[Task{id=11, arrivalTime=22, serviceTime=6}]
+[Task{id=12, arrivalTime=23, serviceTime=4}]
+[Task{id=28, arrivalTime=22, serviceTime=2}]
+Client 3 has been served in queue 0
+Starting service for task 48 in queue 0
+25
+[Task{id=48, arrivalTime=23, serviceTime=3}]
+[Task{id=41, arrivalTime=21, serviceTime=3}, Task{id=40, arrivalTime=24, serviceTime=6}]
+[Task{id=11, arrivalTime=22, serviceTime=5}]
+[Task{id=12, arrivalTime=23, serviceTime=3}]
+[Task{id=28, arrivalTime=22, serviceTime=1}]
+Client 2 26 2 assigned to queue 0
+Client 38 26 6 assigned to queue 2
+Client 25 26 3 assigned to queue 3
+Client 28 has been served in queue 4
+26
+[Task{id=48, arrivalTime=23, serviceTime=2}, Task{id=2, arrivalTime=26, serviceTime=2}]
+[Task{id=41, arrivalTime=21, serviceTime=2}, Task{id=40, arrivalTime=24, serviceTime=6}]
+[Task{id=11, arrivalTime=22, serviceTime=4}, Task{id=38, arrivalTime=26, serviceTime=6}]
+[Task{id=12, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=26, serviceTime=3}]
+[]
+Client 5 27 3 assigned to queue 4
+Starting service for task 5 in queue 4
+Client 15 27 6 assigned to queue 4
+27
+[Task{id=48, arrivalTime=23, serviceTime=1}, Task{id=2, arrivalTime=26, serviceTime=2}]
+[Task{id=41, arrivalTime=21, serviceTime=1}, Task{id=40, arrivalTime=24, serviceTime=6}]
+[Task{id=11, arrivalTime=22, serviceTime=3}, Task{id=38, arrivalTime=26, serviceTime=6}]
+[Task{id=12, arrivalTime=23, serviceTime=1}, Task{id=25, arrivalTime=26, serviceTime=3}]
+[Task{id=5, arrivalTime=27, serviceTime=2}, Task{id=15, arrivalTime=27, serviceTime=6}]
+Client 41 has been served in queue 1
+Starting service for task 40 in queue 1
+Client 12 has been served in queue 3
+Starting service for task 25 in queue 3
+28
+Client 48 has been served in queue 0
+Starting service for task 2 in queue 0
+[Task{id=48, arrivalTime=23, serviceTime=0}, Task{id=2, arrivalTime=26, serviceTime=2}]
+[Task{id=40, arrivalTime=24, serviceTime=6}]
+[Task{id=11, arrivalTime=22, serviceTime=2}, Task{id=38, arrivalTime=26, serviceTime=6}]
+[Task{id=25, arrivalTime=26, serviceTime=3}]
+[Task{id=5, arrivalTime=27, serviceTime=1}, Task{id=15, arrivalTime=27, serviceTime=6}]
+Client 39 29 4 assigned to queue 0
+Client 5 has been served in queue 4
+Starting service for task 15 in queue 4
+29
+[Task{id=2, arrivalTime=26, serviceTime=1}, Task{id=39, arrivalTime=29, serviceTime=4}]
+[Task{id=40, arrivalTime=24, serviceTime=5}]
+[Task{id=11, arrivalTime=22, serviceTime=1}, Task{id=38, arrivalTime=26, serviceTime=6}]
+[Task{id=25, arrivalTime=26, serviceTime=2}]
+[Task{id=15, arrivalTime=27, serviceTime=6}]
+Client 16 30 3 assigned to queue 1
+Client 11 has been served in queue 2
+Starting service for task 38 in queue 2
+Client 2 has been served in queue 0
+Starting service for task 39 in queue 0
+30
+[Task{id=39, arrivalTime=29, serviceTime=4}]
+[Task{id=40, arrivalTime=24, serviceTime=4}, Task{id=16, arrivalTime=30, serviceTime=3}]
+[Task{id=38, arrivalTime=26, serviceTime=6}]
+[Task{id=25, arrivalTime=26, serviceTime=1}]
+[Task{id=15, arrivalTime=27, serviceTime=5}]
+Client 45 31 2 assigned to queue 0
+Client 25 has been served in queue 3
+31
+[Task{id=39, arrivalTime=29, serviceTime=3}, Task{id=45, arrivalTime=31, serviceTime=2}]
+[Task{id=40, arrivalTime=24, serviceTime=3}, Task{id=16, arrivalTime=30, serviceTime=3}]
+[Task{id=38, arrivalTime=26, serviceTime=5}]
+[]
+[Task{id=15, arrivalTime=27, serviceTime=4}]
+Client 46 32 1 assigned to queue 3
+Starting service for task 46 in queue 3
+Client 46 has been served in queue 3
+32
+[Task{id=39, arrivalTime=29, serviceTime=2}, Task{id=45, arrivalTime=31, serviceTime=2}]
+[Task{id=40, arrivalTime=24, serviceTime=2}, Task{id=16, arrivalTime=30, serviceTime=3}]
+[Task{id=38, arrivalTime=26, serviceTime=4}]
+[]
+[Task{id=15, arrivalTime=27, serviceTime=3}]
+Client 14 33 4 assigned to queue 3
+Starting service for task 14 in queue 3
+33
+[Task{id=39, arrivalTime=29, serviceTime=1}, Task{id=45, arrivalTime=31, serviceTime=2}]
+[Task{id=40, arrivalTime=24, serviceTime=1}, Task{id=16, arrivalTime=30, serviceTime=3}]
+[Task{id=38, arrivalTime=26, serviceTime=3}]
+[Task{id=14, arrivalTime=33, serviceTime=3}]
+[Task{id=15, arrivalTime=27, serviceTime=2}]
+Client 4 34 6 assigned to queue 2
+Client 40 has been served in queue 1
+Starting service for task 16 in queue 1
+Client 39 has been served in queue 0
+Starting service for task 45 in queue 0
+34
+[Task{id=45, arrivalTime=31, serviceTime=2}]
+[Task{id=16, arrivalTime=30, serviceTime=3}]
+[Task{id=38, arrivalTime=26, serviceTime=2}, Task{id=4, arrivalTime=34, serviceTime=6}]
+[Task{id=14, arrivalTime=33, serviceTime=2}]
+[Task{id=15, arrivalTime=27, serviceTime=1}]
+Client 36 35 7 assigned to queue 0
+Client 29 35 3 assigned to queue 1
+Client 34 35 2 assigned to queue 3
+Client 15 has been served in queue 4
+35
+[Task{id=45, arrivalTime=31, serviceTime=1}, Task{id=36, arrivalTime=35, serviceTime=7}]
+[Task{id=16, arrivalTime=30, serviceTime=2}, Task{id=29, arrivalTime=35, serviceTime=3}]
+[Task{id=38, arrivalTime=26, serviceTime=1}, Task{id=4, arrivalTime=34, serviceTime=6}]
+[Task{id=14, arrivalTime=33, serviceTime=1}, Task{id=34, arrivalTime=35, serviceTime=2}]
+[]
+Client 38 has been served in queue 2
+Starting service for task 4 in queue 2
+Client 45 has been served in queue 0
+Starting service for task 36 in queue 0
+Client 14 has been served in queue 3
+36
+Starting service for task 34 in queue 3
+[Task{id=36, arrivalTime=35, serviceTime=7}]
+[Task{id=16, arrivalTime=30, serviceTime=1}, Task{id=29, arrivalTime=35, serviceTime=3}]
+[Task{id=4, arrivalTime=34, serviceTime=6}]
+[Task{id=34, arrivalTime=35, serviceTime=2}]
+[]
+Client 10 37 4 assigned to queue 4
+Starting service for task 10 in queue 4
+Client 50 37 2 assigned to queue 0
+Client 42 37 2 assigned to queue 2
+Client 16 has been served in queue 1
+Starting service for task 29 in queue 1
+37
+[Task{id=36, arrivalTime=35, serviceTime=6}, Task{id=50, arrivalTime=37, serviceTime=2}]
+[Task{id=29, arrivalTime=35, serviceTime=3}]
+[Task{id=4, arrivalTime=34, serviceTime=5}, Task{id=42, arrivalTime=37, serviceTime=2}]
+[Task{id=34, arrivalTime=35, serviceTime=1}]
+[Task{id=10, arrivalTime=37, serviceTime=3}]
+Client 21 38 1 assigned to queue 1
+Client 34 has been served in queue 3
+38
+[Task{id=36, arrivalTime=35, serviceTime=5}, Task{id=50, arrivalTime=37, serviceTime=2}]
+[Task{id=29, arrivalTime=35, serviceTime=2}, Task{id=21, arrivalTime=38, serviceTime=1}]
+[Task{id=4, arrivalTime=34, serviceTime=4}, Task{id=42, arrivalTime=37, serviceTime=2}]
+[]
+[Task{id=10, arrivalTime=37, serviceTime=2}]
+Client 27 39 5 assigned to queue 3
+Starting service for task 27 in queue 3
+39
+[Task{id=36, arrivalTime=35, serviceTime=4}, Task{id=50, arrivalTime=37, serviceTime=2}]
+[Task{id=29, arrivalTime=35, serviceTime=1}, Task{id=21, arrivalTime=38, serviceTime=1}]
+[Task{id=4, arrivalTime=34, serviceTime=3}, Task{id=42, arrivalTime=37, serviceTime=2}]
+[Task{id=27, arrivalTime=39, serviceTime=4}]
+[Task{id=10, arrivalTime=37, serviceTime=1}]
+Client 19 40 6 assigned to queue 3
+Client 29 has been served in queue 1
+Starting service for task 21 in queue 1
+Client 10 has been served in queue 4
+40
+[Task{id=36, arrivalTime=35, serviceTime=3}, Task{id=50, arrivalTime=37, serviceTime=2}]
+[Task{id=21, arrivalTime=38, serviceTime=1}]
+[Task{id=4, arrivalTime=34, serviceTime=2}, Task{id=42, arrivalTime=37, serviceTime=2}]
+[Task{id=27, arrivalTime=39, serviceTime=3}, Task{id=19, arrivalTime=40, serviceTime=6}]
+[]
+Client 21 has been served in queue 1
+41
+[Task{id=36, arrivalTime=35, serviceTime=2}, Task{id=50, arrivalTime=37, serviceTime=2}]
+[]
+[Task{id=4, arrivalTime=34, serviceTime=1}, Task{id=42, arrivalTime=37, serviceTime=2}]
+[Task{id=27, arrivalTime=39, serviceTime=2}, Task{id=19, arrivalTime=40, serviceTime=6}]
+[]
+Client 4 has been served in queue 2
+Starting service for task 42 in queue 2
+42
+[Task{id=36, arrivalTime=35, serviceTime=1}, Task{id=50, arrivalTime=37, serviceTime=2}]
+[]
+[Task{id=42, arrivalTime=37, serviceTime=2}]
+[Task{id=27, arrivalTime=39, serviceTime=1}, Task{id=19, arrivalTime=40, serviceTime=6}]
+[]
+Client 36 has been served in queue 0
+Starting service for task 50 in queue 0
+Client 27 has been served in queue 3
+Starting service for task 19 in queue 3
+43
+[Task{id=50, arrivalTime=37, serviceTime=2}]
+[]
+[Task{id=42, arrivalTime=37, serviceTime=1}]
+[Task{id=19, arrivalTime=40, serviceTime=6}]
+[]
+Client 42 has been served in queue 2
+44
+[Task{id=50, arrivalTime=37, serviceTime=1}]
+[]
+[]
+[Task{id=19, arrivalTime=40, serviceTime=5}]
+[]
+Client 50 has been served in queue 0
+45
+[]
+[]
+[]
+[Task{id=19, arrivalTime=40, serviceTime=4}]
+[]
+46
+[]
+[]
+[]
+[Task{id=19, arrivalTime=40, serviceTime=3}]
+[]
+47
+[]
+[]
+[]
+[Task{id=19, arrivalTime=40, serviceTime=2}]
+[]
+48
+[]
+[]
+[]
+[Task{id=19, arrivalTime=40, serviceTime=1}]
+[]
+Client 19 has been served in queue 3
+49
+[]
+[]
+[]
+[]
+[]
+50
+[]
+[]
+[]
+[]
+[]
+51
+[]
+[]
+[]
+[]
+[]
+52
+[]
+[]
+[]
+[]
+[]
+53
+[]
+[]
+[]
+[]
+[]
+54
+[]
+[]
+[]
+[]
+[]
+55
+[]
+[]
+[]
+[]
+[]
+56
+[]
+[]
+[]
+[]
+[]
+57
+[]
+[]
+[]
+[]
+[]
+58
+[]
+[]
+[]
+[]
+[]
+59
+[]
+[]
+[]
+[]
+[]
+60
+[]
+[]
+[]
+[]
+[]
+Simulation ended.
+AVERAGE SERVICE TIME 4.1
+PEAK HOUR 40
+WAITING TIME IS 105
+PERSONS FOR WATING 31
+AVERAGE WAITING TIME 3.3870967741935485

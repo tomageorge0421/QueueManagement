@@ -1,0 +1,205 @@
+Generated client 1 with arrival time 28 and service time 2
+Generated client 2 with arrival time 30 and service time 3
+Generated client 3 with arrival time 6 and service time 3
+Generated client 4 with arrival time 24 and service time 4
+0
+[]
+[]
+1
+[]
+[]
+2
+[]
+[]
+3
+[]
+[]
+4
+[]
+[]
+5
+[]
+[]
+Client 3 6 3 assigned to queue 0
+Starting service for task 3 in queue 0
+6
+[Task{id=3, arrivalTime=6, serviceTime=2}]
+[]
+7
+[Task{id=3, arrivalTime=6, serviceTime=1}]
+[]
+Client 3 has been served in queue 0
+8
+[]
+[]
+9
+[]
+[]
+10
+[]
+[]
+11
+[]
+[]
+12
+[]
+[]
+13
+[]
+[]
+14
+[]
+[]
+15
+[]
+[]
+16
+[]
+[]
+17
+[]
+[]
+18
+[]
+[]
+19
+[]
+[]
+20
+[]
+[]
+21
+[]
+[]
+22
+[]
+[]
+23
+[]
+[]
+Client 4 24 4 assigned to queue 0
+Starting service for task 4 in queue 0
+24
+[Task{id=4, arrivalTime=24, serviceTime=3}]
+[]
+25
+[Task{id=4, arrivalTime=24, serviceTime=2}]
+[]
+26
+[Task{id=4, arrivalTime=24, serviceTime=1}]
+[]
+Client 4 has been served in queue 0
+27
+[]
+[]
+Client 1 28 2 assigned to queue 0
+Starting service for task 1 in queue 0
+28
+[Task{id=1, arrivalTime=28, serviceTime=1}]
+[]
+Client 1 has been served in queue 0
+29
+[]
+[]
+Client 2 30 3 assigned to queue 0
+Starting service for task 2 in queue 0
+30
+[Task{id=2, arrivalTime=30, serviceTime=2}]
+[]
+31
+[Task{id=2, arrivalTime=30, serviceTime=1}]
+[]
+Client 2 has been served in queue 0
+32
+[]
+[]
+33
+[]
+[]
+34
+[]
+[]
+35
+[]
+[]
+36
+[]
+[]
+37
+[]
+[]
+38
+[]
+[]
+39
+[]
+[]
+40
+[]
+[]
+41
+[]
+[]
+42
+[]
+[]
+43
+[]
+[]
+44
+[]
+[]
+45
+[]
+[]
+46
+[]
+[]
+47
+[]
+[]
+48
+[]
+[]
+49
+[]
+[]
+50
+[]
+[]
+51
+[]
+[]
+52
+[]
+[]
+53
+[]
+[]
+54
+[]
+[]
+55
+[]
+[]
+56
+[]
+[]
+57
+[]
+[]
+58
+[]
+[]
+59
+[]
+[]
+60
+[]
+[]
+Simulation ended.
+AVERAGE SERVICE TIME 3.0
+PEAK HOUR 30
+WAITING TIME IS 0
+PERSONS FOR WATING 0
+AVERAGE WAITING TIME 0
